@@ -2,17 +2,12 @@
 
 # Olá, eu sou Rayane Rocha 👋
 
-💻 Estudante de Tecnologia
-
-</div>
-
-## ✨ Sobre mim
-
-- 📊 Estudando análise de dados e BI
+- 📊 Análise de dados e BI
 - 🐍 Desenvolvendo projetos com Python
 - 🗄️ Praticando consultas SQL
 - 📈 Criando dashboards no Power BI
 
+</div>
 
 <div align="left">
 
